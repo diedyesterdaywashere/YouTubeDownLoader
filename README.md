@@ -13,3 +13,4 @@ If you can help me with implementing any of those pls create an pull request and
 - Ability to download playlists?
 # License
 If you will use it pls tag me!
+# Credits
